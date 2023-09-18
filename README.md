@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🔭 I’m currently a computer science major at Bilkent University
+- 🌱 I’m currently learning Java
+- 👯 I’m looking to collaborate on cloud AI technologies seeking to optimize type 1 diabetes hardware such as insulin pumps and blood sugar sensors
 
 <!--
 **Atakan-Kaya35/Atakan-Kaya35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
