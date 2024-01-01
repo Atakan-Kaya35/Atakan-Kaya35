@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently a computer science major at Bilkent University
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Machine Learning
+- ⚡ I'm a type 1 diabetic
 - 👯 I’m looking to collaborate on cloud AI technologies seeking to optimize type 1 diabetes hardware such as insulin pumps and blood sugar sensors
 
 <!--
